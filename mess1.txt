@@ -1,0 +1,9 @@
+Alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Lowercase: abcdefghijklmnopqrstuvwxyz
+Digits: 0123456789
+Mixed: A1B2C3D4E5F6G7H8I9J0
+Complex Identifier: var_Alpha123, betaDelta456, Gamma789Delta
+Symbols: !@#$%^&*()_+-=[]{}|;:',.<>/?`~"
+Quotes: "Double quotes" and 'Single quotes'
+Escape Sequences: \n (newline), \t (tab), \r (carriage return)
+Miscellaneous: ©, ®, ™, € 
