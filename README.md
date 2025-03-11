@@ -21,3 +21,7 @@ A simple Python-based encryption and decryption tool inspired by the Los Angeles
    Open a terminal, navigate to the directory containing `main.py`, and run:
    ```bash
    python3 main.py
+
+## Disclaimer
+
+I am not maintaining this code; it is just for learning and educational purposes.
